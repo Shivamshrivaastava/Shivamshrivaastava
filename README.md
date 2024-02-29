@@ -1,24 +1,25 @@
- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://shorturl.at/dpuAL" />
 <h1 align="center">Hi 👋, I'm SHIVAM SHRIVASTAVA</h1>
 <h3 align="center">A passionate frontend developer from India Looking for oppertunities</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshrivaastava&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshrivaastava" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamshrivaastava" alt="shivamshrivaastava" /></a> </p>
 
-- 🔭 I’m currently working on [Entertainment-Hub](http://lnkiy.in/Entertainmnet-Hub)
+- 🔭 I’m currently working on [Entertainment-Hub](https://github.com/Shivamshrivaastava/Entertainment-Hub)
 
 - 🌱 I’m currently learning **React + Vite, Python , DSA With JAVASCRIPT**
 
-- 👨‍💻 All of my projects are available at [http://lnkiy.in/Shivam-shrivastava](http://lnkiy.in/Shivam-shrivastava)
+- 👨‍💻 All of my projects are available at [https://github.com/shivamshrivaastava](https://github.com/shivamshrivaastava)
 
-- 📝My Portfolio [http://lnkiy.in/SHIVAM-SHRIVASTAVA](http://lnkiy.in/SHIVAM-SHRIVASTAVA)
+- 📝My Portfolio [https://www.linkedin.com/in/shivam-shrivastava-3a161a22a/](https://www.linkedin.com/in/shivam-shrivastava-3a161a22a/)
 
 - 💬 Ask me about **React + Vite, Python , DSA With JAVASCRIPT**
 
 - 📫 How to reach me **shivamshrivaastava@gmail.com**
 
-- 📄 Know about my experiences [http://lnkiy.in/shivam-shrivastava](http://lnkiy.in/shivam-shrivastava)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12yQa7sFOrzehgH8BpqleAMxF__4othPp/view?usp=drive_link](https://drive.google.com/file/d/12yQa7sFOrzehgH8BpqleAMxF__4othPp/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
