@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamshrivaastava" alt="shivamshrivaastava" /></a> </p>
 
-- 🔭 I’m currently working on [Entertainment-Hub](https://github.com/Shivamshrivaastava/Entertainment-Hub)
+- 🔭 I’m currently working on https://brainwaveco.netlify.app
 
 - 🌱 I’m currently learning **React + Vite, Python , DSA With JAVASCRIPT**
 
