@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivam shrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam shrivastava" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shivamshrivaastava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamshrivaastava/" height="30" width="40" /></a>
+<a href="https://codesandbox.io/u/Shivamshrivaastava" target="blank"><img align="center" src="https://imgs.search.brave.com/zzSSsc_mKKUqaCPfP1Qsh-lsUF3CiSH2k5XbE4ucSqM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9jb2Rlc2Fu/ZGJveC1pY29uLTQ0/M3g1MTItcGhzMjk4/M3IucG5n" alt="https://codesandbox.io/u/Shivamshrivaastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
