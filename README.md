@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://shorturl.at/dpuAL" />
+
 <h1 align="center">Hi 👋, I'm SHIVAM SHRIVASTAVA</h1>
 <h3 align="center">A passionate frontend developer from India Looking for oppertunities</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -15,7 +15,7 @@
 
 - 📝My Portfolio [https://www.linkedin.com/in/shivam-shrivastava-3a161a22a/](https://www.linkedin.com/in/shivam-shrivastava-3a161a22a/)
 
-- 💬 Ask me about **React + Vite, Python , DSA With JAVASCRIPT**
+- 💬 Ask me about **React + Vite, Python , DSA With JAVASCRIPT
 
 - 📫 How to reach me **shivamshrivaastava@gmail.com**
 
