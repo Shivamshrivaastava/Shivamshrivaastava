@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamshrivaastava](https://github.com/shivamshrivaastava)
 
-- 📝My Portfolio [https://www.linkedin.com/in/shivam-shrivastava-3a161a22a/](https://www.linkedin.com/in/shivam-shrivastava-3a161a22a/)
+- 📝My Portfolio ( https://shivam-shrivastava.netlify.app/)
 
 - 💬 Ask me about **React + Vite, Python , DSA With JAVASCRIPT
 
