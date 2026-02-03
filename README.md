@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer from India Looking for oppertunities</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshrivaastava&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshrivaastava" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshrivaastava&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshrivaastava" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamshrivaastava" alt="shivamshrivaastava" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamshrivaastava" alt="shivamshrivaastava" /></a> </p> -->
 
 - 🔭 I’m currently working on https://get-doctor-appointment.netlify.app/
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamshrivaastava](https://github.com/shivamshrivaastava)
 
-- 📝My Portfolio - https://shivam-shrivastava.netlify.app/
+- 📝My Portfolio - https://new-shivam-shrivastava-portfolio.netlify.app/
 
 - 💬 Ask me about **React + Vite, Python , DSA With JAVASCRIPT
 
